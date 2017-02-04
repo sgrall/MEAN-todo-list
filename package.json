@@ -1,0 +1,25 @@
+{
+  "name": "mean-todolist",
+  "version": "1.0.0",
+  "description": "todo list app with MEAN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgrall/MEAN-todo-list.git"
+  },
+  "author": "sgrall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgrall/MEAN-todo-list/issues"
+  },
+  "homepage": "https://github.com/sgrall/MEAN-todo-list#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "mongojs": "^2.4.0"
+  }
+}
